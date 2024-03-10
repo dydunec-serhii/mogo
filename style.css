@@ -18,4 +18,7 @@ color: var(--logo-colour);
 .menu-link{
     color: var(--logo-colour);
 }
+.menu-item{
+    color: var(--logo-colour);
+}
 
