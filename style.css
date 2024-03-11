@@ -21,4 +21,52 @@ color: var(--logo-colour);
 .menu-item{
     color: var(--logo-colour);
 }
+:root{
+    --accent-color: #2196F3;
+    }
+    .active{
+        color: var(--accent-color);
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    h2 { 
+        color: black;
+        text-transform: uppercase;
+    }
+    .webstudio{
+        color: rgb(134, 134, 231);
+    }
+    #top{
+        margin:left;
+        color: blanchedalmond;
+    }
+    body h2{
+        color: aquamarine;
+    }
+    header>h1{
+        color: blue;
+    }
+    .status{
+         font-size: 30px;
+    }
+    .green{
+        color: green;
+    }
+    .orange{
+        color: orange;
+    }
+    .red{
+        color: red;
+    }
+    .last{
+        background-color:rgba(red, green, blue, alpha)
+    }
+    
+    
 
