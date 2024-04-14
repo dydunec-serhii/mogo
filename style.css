@@ -1,72 +1,36 @@
-:root{
-    --logo-colour: #95E1D3;
-    --deco-col: #F38181;
-    --text-col: #333333;
-    --menu-text-color: #95E1D3;
-    --text-color: #B6B6B6;
-    --color-text: #F38181;
-}
-.logo{
-color: var(--logo-colour);
-}
-.active{
-    color: var(--color-text);
-}
-.title-text{
-    color: var(--text-col);
-}
-.menu-link{
-    color: var(--logo-colour);
-}
-.menu-item{
-    color: var(--logo-colour);
-}
-:root{
-    --accent-color: #2196F3;
-    }
-    .active{
-        color: var(--accent-color);
-    }
-    
-    
-    
-    
-    
-    
-    
-    
-    h2 { 
-        color: black;
-        text-transform: uppercase;
-    }
-    .webstudio{
-        color: rgb(134, 134, 231);
-    }
-    #top{
-        margin:left;
-        color: blanchedalmond;
-    }
-    body h2{
-        color: aquamarine;
-    }
-    header>h1{
-        color: blue;
-    }
-    .status{
-         font-size: 30px;
-    }
-    .green{
-        color: green;
-    }
-    .orange{
-        color: orange;
-    }
-    .red{
-        color: red;
-    }
-    .last{
-        background-color:rgba(red, green, blue, alpha)
-    }
-    
-    
 
+.logo-header {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.menu-item {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  list-style: none;
+}
+.title-text {
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  ::placeholder{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  .style-none{
+    list-style: none;
+  }
+    
