@@ -33,4 +33,8 @@
   .style-none{
     list-style: none;
   }
+  .container{
+    width: 1200px;
+    outline: 1px solid blue;
+  }
     
