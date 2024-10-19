@@ -37,4 +37,21 @@
     width: 1200px;
     outline: 1px solid blue;
   }
-    
+.ul-header{
+  display: flex;
+  gap: 55px;
+  padding-left: 0px;
+
+  
+
+}
+.logo{
+  margin-left: 200px;
+}
+.menu-item2{
+  margin-left: 600px;
+}
+.box{
+  display: flex;
+  justify-content: center;
+}
