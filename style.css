@@ -73,3 +73,6 @@ list-style: none;
 .end{
   justify-content: end;
 }
+.list{
+  list-style: none;
+}                
