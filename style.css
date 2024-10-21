@@ -41,9 +41,6 @@
   display: flex;
   gap: 55px;
   padding-left: 0px;
-
-  
-
 }
 .logo{
   margin-left: 200px;
@@ -54,4 +51,25 @@
 .box{
   display: flex;
   justify-content: center;
+}
+.display2{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+.width{
+  width: 368px;
+}
+.box2{
+  padding-left: 0px;
+  margin-bottom: -10px;
+}
+
+.display{
+list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.end{
+  justify-content: end;
 }
